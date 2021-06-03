@@ -11,7 +11,7 @@ layout: default
 
   <div class="date">
     Escrito el {{ page.date | date: "%e de %m" }}
-    {% assign m = post.date | date: "%m" %}
+    {% assign m = page.date | date: "%m" %}
     {% case m %}
       {% when '1' %}enero
       {% when '2' %}febrero
