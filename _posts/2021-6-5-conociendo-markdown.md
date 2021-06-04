@@ -31,7 +31,7 @@ Para poner texto en cursiva hay que escribir texto entre dos asteriscos o dos gu
 **Resultado:** *Texto en cursiva*
 
 # Encabezados
-Para dar formato de encabezado a un texto, el carácter que hay que utilizar es la almohadilla (#). Existen hasta seis niveles de encabezado. Cada nivel de encabezado tiene tantas almohadillas como nivel de encabezado es; es decir, el primer nivel de encabezado tiene una almohadilla, el segundo tendrá dos almohadillas y así hasta llegar a seis, tal y como se muestra a continuación.
+Para dar formato de encabezado a un texto, el carácter que hay que utilizar es la _almohadilla_ (#). Existen hasta seis niveles de encabezado. Cada nivel de encabezado tiene tantas almohadillas como nivel de encabezado es; es decir, el primer nivel de encabezado tiene una almohadilla, el segundo tendrá dos almohadillas y así hasta llegar a seis, tal y como se muestra a continuación.
 
 `# Encabezado 1`
 
@@ -56,3 +56,13 @@ Para dar formato de encabezado a un texto, el carácter que hay que utilizar es 
 `###### Encabezado 6`
 
 ###### Encabezado 6
+
+# Citas
+Para dar formato de cita, el símbolo que que hay que utilizar es el _mayor que_, tal y como se muestra a continuación.
+
+`> Cada día sabemos más y entendemos menos`
+
+Albert Einstein
+
+> Cada día sabemos más y entendemos menos
+Albert Einstein
