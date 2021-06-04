@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conociendo markdown
+title: Conociendo Markdown
 ---
 
 En este artículo voy a explicar qué es markdown y cómo utilizar este lenguaje para dar formato al texto.
@@ -8,3 +8,6 @@ En este artículo voy a explicar qué es markdown y cómo utilizar este lenguaje
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/markdown.png)
 {:refdef}
+
+### Tabla de contenidos
+- [Qué es Markdown](#que-es-markdown)
