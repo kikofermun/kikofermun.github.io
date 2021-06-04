@@ -121,3 +121,21 @@ Queremos que en lugar de mostrarse **About** se muestre **Sobre mi**. Para ello,
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubsobremi.png)
 {:refdef}
+
+El siguiente elemento que queremos cambiar es la fecha que se muestra al final de cada artículo (imagen de abajo).
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubfecha.png)
+{:refdef}
+
+Para modificar esta fecha tenemos que editar el fichero **post.html** que se encuentra en la carpeta **_layouts**. Dentro de este fichero tenemos que buscar las siguientes líneas de código (imagen de abajo).
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubdate.png)
+{:refdef}
+
+Estas líneas de código las sustituiremos por las siguientes (imagen de abajo).
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubfecha2.png)
+{:refdef}
