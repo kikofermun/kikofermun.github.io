@@ -37,9 +37,9 @@ Para poner texto en cursiva hay que escribir texto entre dos asteriscos o dos gu
 # Poniendo texto en cursiva y negrita
 Para poner texto en cursiva hay que escribir texto entre tres asteriscos o tres guiones bajos, uno antes del texto y uno después del texto, tal y como se muestra a continuación.
 
-**Texto con caracteres:** `***Texto en cursiva***` o `___Texto en cursiva___`
+**Texto con caracteres:** `***Texto en cursiva y negrita***` o `___Texto en cursiva y negrita___`
 
-**Resultado:** ***Texto en cursiva***
+**Resultado:** ***Texto en cursiva y negrita***
 
 # Encabezados
 Para dar formato de encabezado a un texto, el carácter que hay que utilizar es la _almohadilla_ (#). Existen hasta seis niveles de encabezado. Cada nivel de encabezado tiene tantas almohadillas como nivel de encabezado es; es decir, el primer nivel de encabezado tiene una almohadilla, el segundo tendrá dos almohadillas y así hasta llegar a seis, tal y como se muestra a continuación.
