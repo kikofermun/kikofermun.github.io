@@ -118,7 +118,6 @@ La línea que queremos modificar es la que se muestra en la siguiente imagen.
 
 Queremos que en lugar de mostrarse **About** se muestre **Sobre mi**. Para ello, la modificación quedaría como se muestra en la siguiente imagen.
 
-
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubsobremi.png)
 {:refdef}
