@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creando un blog en Github con Jekyll
+dae: 2021-06-04
 ---
 
 En este post vamos a explicar cómo crear un blog en Github como el que estás viendo ahora mismo utilizando Jekyll.
