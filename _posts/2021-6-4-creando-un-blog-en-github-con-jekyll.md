@@ -34,3 +34,5 @@ Ahora que ya estamos dados de alta y logueados en nuestra cuenta de Github, para
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubfork.png)
 {:refdef}
+
+Cuando hayamos pulsado en el botón, una vez haya acabado la bifurcación, 
