@@ -3,7 +3,7 @@ layout: post
 title: Creando un blog en Github con Jekyll
 ---
 
-En este artículo vamos a explicar cómo crear un blog en Github como el que estás viendo ahora mismo utilizando Jekyll.
+En este artículo voy a explicar cómo crear un blog en Github como el que estás viendo ahora mismo utilizando Jekyll.
 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubyjekyll.png)
