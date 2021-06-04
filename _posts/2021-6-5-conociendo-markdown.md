@@ -20,6 +20,6 @@ Cuando pensamos en programar páginas web, el primer lenguaje en el que pensamos
 Para poner texto en negrita hay que escribir texto entre cuatro asteriscos o cuatro guiones bajos, dos antes del texto y dos después del texto, tal y como se muestra en la siguiente tabla.
 
 |Texto con caracteres para poner en negrita|Resultado|
-|----------------------------------------------|----------------------------------------------|
+|-|-|
 |`**Texo en negrita**`|**Texto en negrita**|
 |`__Texo en negrita__`|__Texto en negrita__|
