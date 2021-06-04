@@ -13,14 +13,14 @@ layout: default
     Escrito el 
     {% assign dy = page.date | date: "%a" %}
     {% case dy %}
-      {% when "Mon" %}Lunes
-      {% when "Tue" %}Martes
-      {% when "Wed" %}Miércoles
-      {% when "Thu" %}Jueves
-      {% when "Fri" %}Viermes
-      {% when "Sat" %}Sábado
-      {% when "Sun" %}Domingo
-    {% endcase %}.
+      {% when "Mon" %}lunes
+      {% when "Tue" %}martes
+      {% when "Wed" %}miércoles
+      {% when "Thu" %}jueves
+      {% when "Fri" %}viermes
+      {% when "Sat" %}sábado
+      {% when "Sun" %}domingo
+    {% endcase %}
     {{ page.date | date: "%-d de " }}
     {% assign m = page.date | date: "%-m" %}
     {% case m %}
