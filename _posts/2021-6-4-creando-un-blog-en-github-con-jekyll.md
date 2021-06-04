@@ -145,3 +145,12 @@ Una vez hecha esta modificación, la fecha se mostraría en el siguiente formato
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubfecha3.png)
 {:refdef}
+
+# Escribiendo un artículo
+Lo último que nos falta por saber es cómo escribir un artículo. Para ello simplemente hay que añadir un fichero con extensión **md** en la carpeta **_posts** por cada artículo que queramos añadir al blog. Una vez creado, hemos de clicar sobre él, clicar en el botón para poder editarlo y empezar a escribir.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubpost.png)
+{:refdef}
+
+Es importante tener en cuenta que en los ficheros con extensión **md** hay que escribir utilizando el lenguaje **markdown**. Si estás interesado en apender sobre este lenguaje, visita el artículo en el que hablo sobre ésto.
