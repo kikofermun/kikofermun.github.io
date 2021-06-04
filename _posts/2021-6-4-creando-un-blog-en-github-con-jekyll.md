@@ -57,7 +57,6 @@ A continuación vamos a modificar algunos de nuestros datos personales que se en
 
 Una vez lo hayamos encontrado, tenemos que clicar sobre él y, cuando nos haya redirigido al fichero, pulsar en el botón que nos permite editarlo (imagen de abajo).
 
-
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubbotoneditar.png)
 {:refdef}
