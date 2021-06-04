@@ -90,3 +90,16 @@ En este fichero vamos a modificar los datos que se han modificado en este blog, 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubtwitter.png)
 {:refdef}
+
+# Traduciendo al español
+A continuación, todo lo que aparece en inglés vamos a traducirlo al español. El primer elemento que vamos a cambiar es el **About** que aparece en la parte superior derecha (imagen de abajo) por **Sobre mi**.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubabout.png)
+{:refdef}
+
+Para ello tenemos que dirigirnos a nuestro repositorio, a la carpeta **_layouts** y buscar el fichero **default.html** (imagen de abajo).
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubdefault.png)
+{:refdef}
