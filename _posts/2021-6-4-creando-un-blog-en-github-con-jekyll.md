@@ -46,3 +46,10 @@ El siguiente paso que tenemos que hacer es cambiar el nombre del repositorio bif
 {:refdef}
 
 Una vez hayamos renombrado el repositorio, si ahora vamos a la url con el nombre que le hemos puesto al repositorio, que en el caso de este blog es [kikofermun.github.io](https://kikofermun.github.io){:target="_blank"}, podremos ver que ya tenemos un blog creado al que sólo le tenemos que hacer modificaciones para adaptarlo a nuestro gusto.
+
+# Modificando el fichero _config.yml
+A continuación vamos a modificar algunos de nuestros datos personales que se encuentran en el fichero ___config.yml__. Para ello, tenemos que ir a nuestro repositorio, que en el caso de este blog es [https://github.com/kikofermun/kikofermun.github.io](https://github.com/kikofermun/kikofermun.github.io){:target="_blank"} y buscar el fichero ___config.yml__ (imagen de abajo).
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubficheroconfig.png)
+{:refdef}
