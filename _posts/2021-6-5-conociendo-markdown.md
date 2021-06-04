@@ -9,7 +9,7 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 ![_config.yml]({{ site.baseurl }}/images/markdown.png)
 {:refdef}
 
-### Tabla de contenidoss
+### Tabla de contenidos
 - [Qué es Markdown](#qué-es-markdown)
 
 # Qué es Markdown
