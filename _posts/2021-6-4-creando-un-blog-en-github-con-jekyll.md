@@ -103,3 +103,22 @@ Para ello tenemos que dirigirnos a nuestro repositorio, a la carpeta **_layouts*
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubdefault.png)
 {:refdef}
+
+Una vez lo hayamos encontrado, clicamos sobre él y pulsamos sobre el botón para editarlo (imagen de abajo).
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubdefault2.png)
+{:refdef}
+
+La línea que queremos modificar es la que se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubabout2.png)
+{:refdef}
+
+Queremos que en lugar de mostrarse **About** se muestre **Sobre mi**. Para ello, la modificación quedaría como se muestra en la siguiente imagen.
+
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubsobremi.png)
+{:refdef}
