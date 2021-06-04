@@ -13,7 +13,7 @@ En este artículo vamos a explicar cómo crear un blog en Github como el que est
 - [Darnos de alta en Github](#darnos-de-alta-en-github)
 - [Bifurcando el repositorio de Jekyll](#bifurcando-el-repositorio-de-jekyll)
 - [Cambiando el nombre al repositorio bifurcado](#cambiando-el-nombre-al-repositorio-bifurcado)
-- [Modificando el fichero _config.yml](#modificando-el-fichero-config.yml)
+- [Modificando el fichero de configuración](#modificando-el-fichero-de-configuración)
 
 # Darnos de alta en Github
 Antes de empezar a crear un blog en Github con Jekyll, lo primero que tenemos que hacer es darnos de alta. Para ello, en primer lugar tenemos que dirigirnos a la [página de Github](https://github.com/){:target="_blank"} y clicar en __signup__, que está en la zona marcada con un rectángulo con un borde rojo en la siguiente imagen.
@@ -48,7 +48,7 @@ El siguiente paso que tenemos que hacer es cambiar el nombre del repositorio bif
 
 Una vez hayamos renombrado el repositorio, si ahora vamos a la url con el nombre que le hemos puesto al repositorio, que en el caso de este blog es [kikofermun.github.io](https://kikofermun.github.io){:target="_blank"}, podremos ver que ya tenemos un blog creado al que sólo le tenemos que hacer modificaciones para adaptarlo a nuestro gusto.
 
-# Modificando el fichero config.yml
+# Modificando el fichero de configuración
 A continuación vamos a modificar algunos de nuestros datos personales que se encuentran en el fichero ___config.yml__. Para ello, tenemos que ir a nuestro repositorio, que en el caso de este blog es [https://github.com/kikofermun/kikofermun.github.io](https://github.com/kikofermun/kikofermun.github.io){:target="_blank"} y buscar el fichero ___config.yml__ (imagen de abajo).
 
 {:refdef: style="text-align: center;"}
