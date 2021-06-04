@@ -64,6 +64,16 @@ Para dar formato de cita, el símbolo que que hay que utilizar es el _mayor que_
 
 #### Albert Einstein
 
->>> Cada día sabemos más y entendemos menos
+> Cada día sabemos más y entendemos menos
+
+#### Albert Einstein
+
+También es posible escribir citas dentro de citas, tal y como se muestra a continuación.
+
+`>> Cada día sabemos más y entendemos menos`
+
+#### Albert Einstein
+
+>> Cada día sabemos más y entendemos menos
 
 #### Albert Einstein
