@@ -58,7 +58,7 @@ Para dar formato de encabezado a un texto, el carácter que hay que utilizar es 
 ###### Encabezado 6
 
 # Citas
-Para dar formato de cita, el símbolo que que hay que utilizar es el _mayor que_, tal y como se muestra a continuación.
+Para dar formato de cita, el símbolo que hay que utilizar es el _mayor que_, tal y como se muestra a continuación.
 
 `> Cada día sabemos más y entendemos menos`
 
