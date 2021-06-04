@@ -16,7 +16,7 @@ A continuación nos aparecerá una nueva pantalla (imagen de abajo) donde tendre
 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubsignup2.png)
-{: refdef}
+{:refdef}
 
 Una vez hayamos rellenado todos los datos, si todo ha ido bien, ya estaremos dados de alta y logueados.
 
