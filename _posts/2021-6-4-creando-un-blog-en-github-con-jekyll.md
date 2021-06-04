@@ -140,7 +140,7 @@ Estas líneas de código las sustituiremos por las siguientes (imagen de abajo).
 ![_config.yml]({{ site.baseurl }}/images/githubfecha2.png)
 {:refdef}
 
-Una vez hecha esta modificación, la fecha queda como se muestra en la siguiente imagen.
+Una vez hecha esta modificación, la fecha se mostraría en el siguiente formato (imagen de abajo).
 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubfecha3.png)
