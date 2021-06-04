@@ -19,6 +19,13 @@ Cuando pensamos en programar páginas web, el primer lenguaje en el que pensamos
 # Poniendo texto en negrita
 Para poner texto en negrita hay que escribir texto entre cuatro asteriscos o cuatro guiones bajos, dos antes del texto y dos después del texto, tal y como se muestra a continuación.
 
-**Texto con caracteres:** `**Texto en negrita**`
+**Texto con caracteres:** `**Texto en negrita**` o `__Texto en negrita__`
 
 **Resultado:** **Texto en negrita**
+
+# Poniendo texto en cursiva
+Para poner texto en cursiva hay que escribir texto entre dos asteriscos o dos guiones bajos, uno antes del texto y uno después del texto, tal y como se muestra a continuación.
+
+**Texto con caracteres:** `*Texto en cursiva*` o `_Texto en cursiva_`
+
+**Resultado:** *Texto en cursiva*
