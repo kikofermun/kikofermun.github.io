@@ -60,3 +60,33 @@ Una vez lo hayamos encontrado, tenemos que clicar sobre él y, cuando nos haya r
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubbotoneditar.png)
 {:refdef}
+
+En este fichero vamos a modificar los datos que se han modificado en este blog, que son los que se muestran en las siguientes imágenes.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubname.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubdescription.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubavatar.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubemail.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubgithub.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githublinkedin.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/githubtwitter.png)
+{:refdef}
