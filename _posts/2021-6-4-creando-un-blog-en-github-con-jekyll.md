@@ -59,4 +59,4 @@ Una vez lo hayamos encontrado, tenemos que clicar sobre él y, cuando nos haya r
 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/githubbotoneditar.png)
-{:refdef}
+{:refdef} 
