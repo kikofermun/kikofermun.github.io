@@ -12,6 +12,9 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 ### Tabla de contenidos
 - [Qué es Markdown](#qué-es-markdown)
 - [Poniendo texto en negrita](#poniendo-texto-en-negrita)
+- [Poniendo texto en cursiva](#poniendo-texto-en-cursiva)
+- [Encabezados](#encabezados)
+- [Citas](#citas)
 
 # Qué es Markdown
 Cuando pensamos en programar páginas web, el primer lenguaje en el que pensamos es HTML. Sin embargo, existen otras alternativas, y una de ellas es Markdown. Markdown es un lenguaje de marcado que a partir del uso de caracteres especiales permite crear páginas web como si se estuviera usando HTML. A continuación se va a explicar cómo utilizar algunos caracteres para conseguir dar formato al texto.
@@ -58,7 +61,7 @@ Para dar formato de encabezado a un texto, el carácter que hay que utilizar es 
 ###### Encabezado 6
 
 # Citas
-Para dar formato de cita, el símbolo que hay que utilizar es el _mayor que_, tal y como se muestra a continuación.
+Para dar formato de cita, el símbolo que hay que utilizar es el _mayor que_ (>), tal y como se muestra a continuación.
 
 `> Cada día sabemos más y entendemos menos`
 
