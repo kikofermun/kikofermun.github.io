@@ -14,6 +14,8 @@ En este artículo vamos a explicar cómo crear un blog en Github como el que est
 - [Bifurcando el repositorio de Jekyll](#bifurcando-el-repositorio-de-jekyll)
 - [Cambiando el nombre al repositorio bifurcado](#cambiando-el-nombre-al-repositorio-bifurcado)
 - [Modificando el fichero de configuración](#modificando-el-fichero-de-configuración)
+- [Traduciendo al español](#traduciendo-al-español)
+- [Escribiendo un artículo](#escribiendo-un-artículo)
 
 # Darnos de alta en Github
 Antes de empezar a crear un blog en Github con Jekyll, lo primero que tenemos que hacer es darnos de alta. Para ello, en primer lugar tenemos que dirigirnos a la [página de Github](https://github.com/){:target="_blank"} y clicar en __signup__, que está en la zona marcada con un rectángulo con un borde rojo en la siguiente imagen.
