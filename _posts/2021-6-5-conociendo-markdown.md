@@ -47,8 +47,8 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 # Añadiendo listas ordenadas
 Para añadir listas ordenadas con HTML se haría como se muestra a continuación.
 
-~~~
-<ol>o
+``` html
+<ol>
   <li>
     Elemento 1
   </li>
@@ -59,7 +59,7 @@ Para añadir listas ordenadas con HTML se haría como se muestra a continuación
     Elemento 3
   </li>
 </ol>
-~~~
+```
 
 Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir el número seguido de un punto y un espacio, tal y como se muestra a continuación.
 
