@@ -56,16 +56,42 @@ Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir 
 {:refdef}
 
 # Anidando listas ordenadas
-Para anidar una lista con HTML se haría tal y como se muestra en la siguiente imagen.
+Para anidar una lista ordenada con HTML se haría tal y como se muestra en la siguiente imagen.
 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadahtml.png)
 {:refdef}
 
-Para anidar una lista con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra en la siguiente imagen.
+Para anidar una lista ordenada con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra en la siguiente imagen.
 
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadamarkdown.png)
+{:refdef}
+
+# Añadiendo listas desordenadas
+Para añadir listas desordenadas con HTML se haría tal y como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadahtml.png)
+{:refdef}
+
+Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o *****, tal y como se puede ver en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadamarkdown.png)
+{:refdef}
+
+# Anidando listas desordenadas
+Para anidar una lista desordenada con HTML se haría tal y como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadahtml.png)
+{:refdef}
+
+Para hacerlo con Markdown se haría tal y como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadamarkdown.png)
 {:refdef}
 
 # Añadiendo tablas
