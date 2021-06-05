@@ -25,7 +25,7 @@ Para poner texto en negrita, en HTML se haría tal y como se muestra en la sigui
 
 |Texto con HTML|Resultado|
 |-|-|
-|`<b>Texto en negrita</b>`|**Texto en negrita**|
+|`<b>Texto en negrita</b>`|**Texto en negrita**                                                                      |
 |`<strong>Texto en negrita</strong>`|**Texto en negrita**|
 
 En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
