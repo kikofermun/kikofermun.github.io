@@ -20,6 +20,11 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 - [Añadiendo listas desordenadas](#añadiendo-listas-desordenadas)
 - [Anidando listas desordenadas](#anidando-listas-desordenadas)
 - [Añadiendo citas](#añadiendo-citas)
+- [Creando enlaces](#creando-enlaces-automáticos)
+   - [Creando enlaces en línea](#creando-enlaces-en-línea)
+   - [Creando enlaces por referencia](#creando-enlaces-por-referencia)
+   - [Creando enlaces automáticos](#creando-enlaces-automáticos)
+   - [Creando anclas](#creando-anclas)
 
 # Qué es Markdown
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en las siguientes tablas.
@@ -217,3 +222,38 @@ También es posible añadir una cita dentro de otra cita, tal y como se muestra 
 ~~~ markdown
 >> Ser o no ser, ésa es la cuestión.
 ~~~
+
+# Creando enlaces
+En Markdown existen cuatro tipos de enlaces, que son los siguientes:
+- Enlaces en línea.
+- Enlaces por referencia.
+- Enlaces automáticos.
+- Anclas
+
+## Creando enlaces en línea
+Los enlaces en línea se crean utilizando corchetes y paréntesis, donde entre los corchetes tiene que ir el texto del enlace y entre los paréntesis tiene que ir la url del enlace, tal y como se muestra a continuación.
+
+`[Google](http://google.es)`
+
+[Google](http://google.es)
+
+## Creando enlaces por referencia
+Los enlaces por referencia se crean utilizando dos corchetes, donde en un corchete irá el texto del enlace y en el otro corchete el texto de la referencia. Ésto se hace tal y como se muestra a continuación.
+
+`[google]: http://google.com`
+
+`[Google][google]`
+
+[google]: http://google.com
+
+[Google][google]
+
+## Creando enlaces automáticos
+Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor que_ y _mayor que_, tal y como se muestra a continuación.
+
+'<http://google.com>'
+
+http://google.com
+
+# Creando anclas
+Las anclas se crean como los enlaces en línea
