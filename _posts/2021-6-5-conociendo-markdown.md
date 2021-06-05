@@ -25,8 +25,8 @@ Para poner texto en negrita, en HTML se haría tal y como se muestra en la sigui
 
 |Texto con HTML|Resultado|
 |:---:|:---:|
-|<b>Texto en negrita</b>|**Texto en negrita**|
-|<strong>Texto en negrita</strong>|**Texto en negrita**|
+|`<b>Texto en negrita</b>`|**Texto en negrita**|
+|`<strong>Texto en negrita</strong>`|**Texto en negrita**|
 
 En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
 
@@ -40,8 +40,8 @@ Para poner texto en cursiva, en HTML se haría tal y como se muestra en la sigui
 
 |Texto con HTML|Resultado|
 |:---:|:---:|
-|<i>Texto en cursiva</i>|*Texto en cursiva*|
-|<em>Texto en cursiva</em>|*Texto en cursiva*|
+|`<i>Texto en cursiva</i>`|*Texto en cursiva*|
+|`<em>Texto en cursiva</em>`|*Texto en cursiva*|
 
 En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
 
@@ -55,8 +55,8 @@ Para poner texto en cursiva y negrita, en HTML se haría tal y como se muestra e
 
 |Texto con HTML|Resultado|
 |:---:|:---:|
-|<i><b>Texto en cursiva y negrita</b></i>|***Texto en cursiva y negrita***|
-|<em><strong>Texto en cursiva y negrita</strong></em>|***Texto en cursiva y negrita***|
+|`<i><b>Texto en cursiva y negrita</b></i>`|***Texto en cursiva y negrita***|
+|`<em><strong>Texto en cursiva y negrita</strong></em>`|***Texto en cursiva y negrita***|
 
 En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
 
