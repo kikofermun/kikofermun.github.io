@@ -21,10 +21,7 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en las siguientes tablas.
 
 # Poniendo texto en negrita
-|Texto con HTML|Texto con Markdown|
-|:---:|:---:|
-|`<b>Texto en negrita</b>`|`**Texto en negrita**`|
-|`<strong>Texto en negrita</strong>`|`__Texto en negrita__`|
+![imagen](https://user-images.githubusercontent.com/69294200/120889464-9b6de380-c5fd-11eb-9bec-58d0eb959fbb.png)
 
 # Poniendo texto en cursiva
 |Texto con HTML|Texto con Markdown|
