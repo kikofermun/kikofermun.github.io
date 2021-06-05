@@ -18,73 +18,49 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 - [Citas](#citas)
 
 # Qué es Markdown
-Cuando pensamos en programar páginas web, el primer lenguaje en el que pensamos es HTML. Sin embargo, existen otras alternativas, y una de ellas es Markdown. Markdown es un lenguaje de marcado que a partir del uso de caracteres especiales permite crear páginas web como si se estuviera usando HTML. A continuación se va a explicar cómo utilizar algunos caracteres para conseguir dar formato al texto.
+Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver a continuación.
 
 # Poniendo texto en negrita
-Para poner texto en negrita hay que escribir texto entre cuatro asteriscos o cuatro guiones bajos, dos antes del texto y dos después del texto, tal y como se muestra a continuación.
+Para poner texto en negrita, en HTML se haría tal y como se muestra en la siguiente tabla.
 
-**Texto con caracteres:** `**Texto en negrita**` o `__Texto en negrita__`
+|Texto con HTML|Resultado|
+|-|-|
+|<b>Texto en negrita</b>|**Texto en negrita**|
+|<strong>Texto en negrita</strong>|**Texto en negrita**|
 
-**Resultado:** **Texto en negrita**
+En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
+
+|Texto con Markdown|Resultado|
+|-|-|
+|`**Texto en negrita**`|**Texto en negrita**|
+|`__Texto en negrita__`|**Texto en negrita**|
 
 # Poniendo texto en cursiva
-Para poner texto en cursiva hay que escribir texto entre dos asteriscos o dos guiones bajos, uno antes del texto y uno después del texto, tal y como se muestra a continuación.
+Para poner texto en cursiva, en HTML se haría tal y como se muestra en la siguiente tabla.
 
-**Texto con caracteres:** `*Texto en cursiva*` o `_Texto en cursiva_`
+|Texto con HTML|Resultado|
+|-|-|
+|<i>Texto en cursiva</i>|*Texto en cursiva*|
+|<em>Texto en cursiva</em>|*Texto en cursiva*|
 
-**Resultado:** *Texto en cursiva*
+En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
+
+|Texto con Markdown|Resultado|
+|-|-|
+|`*Texto en cursiva*`|*Texto en cursiva*|
+|`_Texto en cursiva_`|*Texto en cursiva*|
 
 # Poniendo texto en cursiva y negrita
-Para poner texto en cursiva hay que escribir texto entre tres asteriscos o tres guiones bajos, uno antes del texto y uno después del texto, tal y como se muestra a continuación.
+Para poner texto en cursiva y negrita, en HTML se haría tal y como se muestra en la siguiente tabla.
 
-**Texto con caracteres:** `***Texto en cursiva y negrita***` o `___Texto en cursiva y negrita___`
+|Texto con HTML|Resultado|
+|-|-|
+|<i><b>Texto en cursiva y negrita</b></i>|***Texto en cursiva y negrita***|
+|<em><strong>Texto en cursiva y negrita</strong></em>|***Texto en cursiva y negrita***|
 
-**Resultado:** ***Texto en cursiva y negrita***
+En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
 
-# Encabezados
-Para dar formato de encabezado a un texto, el carácter que hay que utilizar es la _almohadilla_ (#). Existen hasta seis niveles de encabezado. Cada nivel de encabezado tiene tantas almohadillas como nivel de encabezado es; es decir, el primer nivel de encabezado tiene una almohadilla, el segundo tendrá dos almohadillas y así hasta llegar a seis, tal y como se muestra a continuación.
-
-`# Encabezado 1`
-
-# Encabezado 1
-
-`## Encabezado 2`
-
-## Encabezado 2
-
-`### Encabezado 3`
-
-### Encabezado 3
-
-`#### Encabezado 4`
-
-#### Encabezado 4
-
-`##### Encabezado 5`
-
-##### Encabezado 5
-
-`###### Encabezado 6`
-
-###### Encabezado 6
-
-# Citas
-Para dar formato de cita, el símbolo que hay que utilizar es el _mayor que_ (>), tal y como se muestra a continuación.
-
-`> Cada día sabemos más y entendemos menos`
-
-#### Albert Einstein
-
-> Cada día sabemos más y entendemos menos
-
-#### Albert Einstein
-
-También es posible escribir citas dentro de citas, tal y como se muestra a continuación.
-
-`>> Cada día sabemos más y entendemos menos`
-
-#### Albert Einstein
-
->> Cada día sabemos más y entendemos menos
-
-#### Albert Einstein
+|Texto con Markdown|Resultado|
+|-|-|
+|`***Texto en cursiva y negrita***`|***Texto en cursiva y negrita***|
+|`___Texto en cursiva y negrita___`|***Texto en cursiva y negrita***|
