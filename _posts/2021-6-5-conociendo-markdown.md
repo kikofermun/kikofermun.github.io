@@ -35,7 +35,20 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 ![_config.yml]({{ site.baseurl }}/images/markdowncursivaynegrita.png)
 {:refdef}
 
-# Encabezados
+# Añadiendo encabezados
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/markdownencabezados.png)
+{:refdef}
+
+# Añadiendo tablas
+Para crear una tabla con HTML se haría como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdowntablahtml.png)
+{:refdef}
+
+Para crear la misma tabla con Markdown se haría como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdowntablamarkdown.png)
 {:refdef}
