@@ -47,7 +47,7 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 # Añadiendo listas ordenadas
 Para añadir listas ordenadas con HTML se haría como se muestra a continuación.
 
-``` html
+~~~ html
 <ol>
   <li>
     Elemento 1
@@ -96,11 +96,13 @@ Para anidar una lista ordenada con HTML se haría tal y como se muestra a contin
 
 Para anidar una lista ordenada con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra a continuación.
 
+~~~ markdown
 1. Elemento 1
    1.1. Elemento 1.1
    1.2. Elemento 1.2
 3. Elemento 2
 4. Elemento 3
+~~~
 
 # Añadiendo listas desordenadas
 Para añadir listas desordenadas con HTML se haría tal y como se muestra a continuación.
@@ -208,7 +210,7 @@ Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de 
 
 ~~~ markdown
 > Ser o no ser, ésa es la cuestión.
-> ~~~
+~~~
 
 También es posible añadir una cita dentro de otra cita, tal y como se muestra a continuación.
 
