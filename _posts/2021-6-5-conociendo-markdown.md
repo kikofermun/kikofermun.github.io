@@ -19,7 +19,7 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 - [Anidando listas ordenadas](#anidando-listas-ordenadas)
 - [Añadiendo listas desordenadas](#añadiendo-listas-desordenadas)
 - [Anidando listas desordenadas](#anidando-listas-desordenadas)
-- [Citas](#citas)
+- [Añadiendo citas](#añadiendo-citas)
 
 # Qué es Markdown
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en las siguientes tablas.
@@ -205,7 +205,7 @@ Para crear la misma tabla con Markdown se haría como se muestra a continuación
 |Fila 2 Columna 1|Fila 2 Columna 2|
 ~~~
 
-# Citas
+# Añadiendo citas
 Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
 
 ~~~ markdown
