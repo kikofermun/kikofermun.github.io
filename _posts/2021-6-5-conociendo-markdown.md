@@ -45,66 +45,173 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 {:refdef}
 
 # Añadiendo listas ordenadas
-Para añadir listas ordenadas con HTML se haría como se muestra en la siguiente imagen.
+Para añadir listas ordenadas con HTML se haría como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadahtml.png)
-{:refdef}
+~~~ html
+<ol>
+  <li>
+    Elemento 1
+  </li>
+  <li>
+    Elemento 2
+  </li>
+  <li>
+    Elemento 3
+  </li>
+</ol>
+~~~
 
-Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir el número seguido de un punto y un espacio, tal y como se muestra en la siguiente imagen.
+Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir el número seguido de un punto y un espacio, tal y como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadamarkdown.png)
-{:refdef}
+~~~ markdown
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+~~~
 
 # Anidando listas ordenadas
-Para anidar una lista ordenada con HTML se haría tal y como se muestra en la siguiente imagen.
+Para anidar una lista ordenada con HTML se haría tal y como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadahtml.png)
-{:refdef}
+~~~ html
+<ol>
+  <li>
+    Elemento 1
+    <ol>
+      <li>
+        Elemento 1.1
+      </li>
+      <li>
+        Elemento 1.2
+      </li>
+    </ol>
+  </li>
+  <li>
+    Elemento 2
+  </li>
+  <li>
+    Elemento 3
+  </li>
+</ol>
+~~~
 
-Para anidar una lista ordenada con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra en la siguiente imagen.
+Para anidar una lista ordenada con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadamarkdown.png)
-{:refdef}
+1. Elemento 1
+   1.1. Elemento 1.1
+   1.2. Elemento 1.2
+3. Elemento 2
+4. Elemento 3
 
 # Añadiendo listas desordenadas
-Para añadir listas desordenadas con HTML se haría tal y como se muestra en la siguiente imagen.
+Para añadir listas desordenadas con HTML se haría tal y como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadahtml.png)
-{:refdef}
+~~~ html
+<ul>
+  <li>
+    Elemento 1
+  </li>
+  <li>
+    Elemento 2
+  </li>
+  <li>
+    Elemento 3
+  </li>
+</ul>
+~~~
 
-Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o *****, tal y como se puede ver en la siguiente imagen.
+Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o *****, tal y como se puede ver a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadamarkdown.png)
-{:refdef}
+~~~ markdown
+- Elemento 1
++ Elemento 2
+* Elemento 3
+~~~
 
 # Anidando listas desordenadas
-Para anidar una lista desordenada con HTML se haría tal y como se muestra en la siguiente imagen.
+Para anidar una lista desordenada con HTML se haría tal y como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadahtml.png)
-{:refdef}
+~~~ html
+<ul>
+  <li>
+    Elemento 1
+    <ul>
+      <li>
+        Elemento 1
+      </li>
+      <li>
+        Elemento 2
+      </li>
+    </ul>
+  </li>
+  <li>
+    Elemento 2
+  </li>
+  <li>
+    Elemento 3
+  </li>
+</ul>
+~~~
 
-Para hacerlo con Markdown se haría tal y como se muestra en la siguiente imagen.
+Para hacerlo con Markdown se haría tal y como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadamarkdown.png)
-{:refdef}
+~~~ markdown
+- Elemento 1
+   - Elemento 1
+   + Elemento 2
++ Elemento 2
+* Elemento 3
+~~~
 
 # Añadiendo tablas
-Para crear una tabla con HTML se haría como se muestra en la siguiente imagen.
+Para crear una tabla con HTML se haría como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdowntablahtml.png)
-{:refdef}
+~~~ html
+<table>
+  <tr>
+    <th>
+       Cabecera 1
+    </th>
+    <th>
+       Cabecera 2
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Fila 1 Columna 1
+    </td>
+    <td>
+      Fila 1 Columna 2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Fila 2 Columna 1
+    </td>
+    <td>
+      Fila 2 Columna 2
+    </td>
+  </tr>
+</table>
+~~~
 
-Para crear la misma tabla con Markdown se haría como se muestra en la siguiente imagen.
+Para crear la misma tabla con Markdown se haría como se muestra a continuación.
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdowntablamarkdown.png)
-{:refdef}
+~~~ markdown
+|Cabecera 1|Cabecera 2|
+|-|-|
+|Fila 1 Columna 1|Fila 1 Columna 2|
+|Fila 2 Columna 1|Fila 2 Columna 2|
+~~~
+
+# Citas
+Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
+
+~~~ markdown
+> Ser o no ser, ésa es la cuestión.
+> ~~~
+
+También es posible añadir una cita dentro de otra cita, tal y como se muestra a continuación.
+
+~~~ markdown
+>> Ser o no ser, ésa es la cuestión.
+~~~
