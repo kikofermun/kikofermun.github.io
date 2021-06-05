@@ -22,9 +22,8 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 
 # Poniendo texto en negrita
 |Texto con HTML|Texto con Markdown|
-|:---:|:---:|
-|`<b>Texto en negrita</b>`|`**Texto en negrita**`|
-|`<strong>Texto en negrita</strong>`|`__Texto en negrita__`|
+|---|---|
+|a|b|
 
 # Poniendo texto en cursiva
 |Texto con HTML|Texto con Markdown|
