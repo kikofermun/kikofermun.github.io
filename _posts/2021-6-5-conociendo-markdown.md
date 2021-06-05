@@ -23,10 +23,12 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 # Poniendo texto en negrita
 Para poner texto en negrita, en HTML se haría tal y como se muestra en la siguiente tabla.
 
+{:refdef: style="border: 1px solid #aaa;"}
 |Texto con HTML|Resultado|
 |:---:|:---:|
 |`<b>Texto en negrita</b>`|**Texto en negrita**|
 |`<strong>Texto en negrita</strong>`|**Texto en negrita**|
+{:refdef}
 
 En cambio, para poner texto en negrita con Markdown se haría tal y como se muestra en la siguiente tabla.
 
