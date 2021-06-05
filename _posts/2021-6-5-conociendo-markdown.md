@@ -53,6 +53,19 @@ Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir 
 ![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadamarkdown.png)
 {:refdef}
 
+# Anidando listas ordenadas
+Para anidar una lista con HTML se haría tal y como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadahtml.png)
+{:refdef}
+
+Para anidar una lista con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadamarkdown.png)
+{:refdef}
+
 # Añadiendo tablas
 Para crear una tabla con HTML se haría como se muestra en la siguiente imagen.
 
