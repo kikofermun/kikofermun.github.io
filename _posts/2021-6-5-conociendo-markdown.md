@@ -43,6 +43,16 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 # Añadiendo listas ordenadas
 Para añadir listas ordenadas con HTML se haría como se muestra en la siguiente imagen.
 
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadahtml.png)
+{:refdef}
+
+Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir el número seguido de un punto y un espacio, tal y como se muestra en la siguiente imagen.
+
+{:refdef: style="text-align: center;"}
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadamarkdown.png)
+{:refdef}
+
 # Añadiendo tablas
 Para crear una tabla con HTML se haría como se muestra en la siguiente imagen.
 
