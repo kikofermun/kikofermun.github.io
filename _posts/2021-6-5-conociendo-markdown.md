@@ -37,3 +37,13 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 |:---:|:---:|
 |`<i><b>Texto en cursiva y negrita</b></i>`|`***Texto en cursiva y negrita***`|
 |`<em><strong>Texto en cursiva y negrita</strong></em>`|`___Texto en cursiva y negrita__`|
+
+# Encabezados
+|Texto con HTML|Texto con Markdown|
+|:---:|:---:|
+|`<h1>Encabezado 1</h1>`|`# Encabezado 1`|
+|`<h2>Encabezado 2</h2>`|`## Encabezado 2`|
+|`<h3>Encabezado 3</h3>`|`### Encabezado 3`|
+|`<h4>Encabezado 4</h4>`|`#### Encabezado 4`|
+|`<h5>Encabezado 5</h5>`|`##### Encabezado 5`|
+|`<h6>Encabezado 6</h6>`|`###### Encabezado 6`|
