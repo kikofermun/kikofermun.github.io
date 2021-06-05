@@ -40,6 +40,9 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 ![_config.yml]({{ site.baseurl }}/images/markdownencabezados.png)
 {:refdef}
 
+# Añadiendo listas ordenadas
+Para añadir listas ordenadas con HTML se haría como se muestra en la siguiente imagen.
+
 # Añadiendo tablas
 Para crear una tabla con HTML se haría como se muestra en la siguiente imagen.
 
