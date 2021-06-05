@@ -47,7 +47,7 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 # Añadiendo listas ordenadas
 Para añadir listas ordenadas con HTML se haría como se muestra a continuación.
 
-~~~ html
+~~~
 <ol>
   <li>
     Elemento 1
