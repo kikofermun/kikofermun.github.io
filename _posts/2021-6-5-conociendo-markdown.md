@@ -252,6 +252,12 @@ Los enlaces por referencia se crean utilizando dos corchetes, donde en un corche
 
 [google]: http://google.com
 
+[Google][google]
+
+También es posible hacer que se abra en una nueva pestaña de la siguiente forma.
+
+`[Google][google]{:target="_blank"}`
+
 [Google][google]{:target="_blank"}
 
 ## Creando enlaces automáticos
@@ -259,7 +265,7 @@ Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor 
 
 `<http://google.com>`
 
-<http://google.com>
+<http://google.com>{:target="_blank"}
 
 # Creando anclas
 Las anclas se crean como los enlaces en línea pero poniendo una almohadilla y el título de la sección en lugar de la url, tal y como se puede ver a continuación.
