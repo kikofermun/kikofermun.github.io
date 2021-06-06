@@ -251,9 +251,12 @@ Los enlaces por referencia se crean utilizando dos corchetes, donde en un corche
 ## Creando enlaces automáticos
 Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor que_ y _mayor que_, tal y como se muestra a continuación.
 
-'<http://google.com>'
+`<http://google.com>`
 
-http://google.com
+<http://google.com>
 
 # Creando anclas
-Las anclas se crean como los enlaces en línea
+Las anclas se crean como los enlaces en línea pero poniendo una almohadilla y el título de la sección en lugar de la url, tal y como se puede ver a continuación.
+
+
+[Creando enlaces](#creando-enlaces)
