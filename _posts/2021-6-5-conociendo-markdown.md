@@ -235,7 +235,13 @@ Los enlaces en línea se crean utilizando corchetes y paréntesis, donde entre l
 
 `[Google](http://google.es)`
 
-[Google.es](http://google.es){:target="_blank"}
+[Google](http://google.es)
+
+También es posible hacer que se abra en una nueva pestaña de la siguiente forma.
+
+`[Google](http://google.es){:target="_blank"}`
+
+[Google](http://google.es){:target="_blank"}
 
 ## Creando enlaces por referencia
 Los enlaces por referencia se crean utilizando dos corchetes, donde en un corchete irá el texto del enlace y en el otro corchete el texto de la referencia. Ésto se hace tal y como se muestra a continuación.
@@ -246,7 +252,7 @@ Los enlaces por referencia se crean utilizando dos corchetes, donde en un corche
 
 [google]: http://google.com
 
-[Google][google]
+[Google][google]{:target="_blank"}
 
 ## Creando enlaces automáticos
 Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor que_ y _mayor que_, tal y como se muestra a continuación.
