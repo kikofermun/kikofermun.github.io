@@ -235,7 +235,7 @@ Los enlaces en línea se crean utilizando corchetes y paréntesis, donde entre l
 
 `[Google](http://google.es)`
 
-[Google](http://google.es)
+[Google.es](http://google.es){:target="_blank"}
 
 ## Creando enlaces por referencia
 Los enlaces por referencia se crean utilizando dos corchetes, donde en un corchete irá el texto del enlace y en el otro corchete el texto de la referencia. Ésto se hace tal y como se muestra a continuación.
