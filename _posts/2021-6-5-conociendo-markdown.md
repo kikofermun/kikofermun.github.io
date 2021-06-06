@@ -265,6 +265,12 @@ Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor 
 
 `<http://google.com>`
 
+<http://google.com>
+
+También es posible hacer que se abra en una nueva pestaña de la siguiente forma.
+
+`<http://google.com>{:target="_blank"}`
+
 <http://google.com>{:target="_blank"}
 
 # Creando anclas
