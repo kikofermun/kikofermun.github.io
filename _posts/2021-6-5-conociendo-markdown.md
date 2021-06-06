@@ -258,5 +258,6 @@ Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor 
 # Creando anclas
 Las anclas se crean como los enlaces en línea pero poniendo una almohadilla y el título de la sección en lugar de la url, tal y como se puede ver a continuación.
 
+`[Creando enlaces](#creando-enlaces)`
 
 [Creando enlaces](#creando-enlaces)
