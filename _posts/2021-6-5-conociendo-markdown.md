@@ -30,6 +30,13 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 # Qué es Markdown
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en este artículo.
 
+# Editores de Markdown online
+Para poder hacer pruebas de lo que se va a comentar a continuación, se pueden utilizar editores de Markdown online. Algunos de estos editores pueden ser los siguientes:
+
+- [Dillinger](https://dillinger.io/){:target="_blank"}
+- {StackEdit}(https://stackedit.io/){:target="_blank"}
+- {Editor.md}(https://pandao.github.io/editor.md/){:target="_blank"}
+
 # Poniendo texto en cursiva
 {:refdef: style="text-align: center;"}
 ![_config.yml]({{ site.baseurl }}/images/markdowncursiva.png)
