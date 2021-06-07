@@ -36,8 +36,8 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 Para poder hacer pruebas de lo que se va a comentar a continuación, se pueden utilizar editores de Markdown online. Algunos de estos editores pueden ser los siguientes:
 
 - [Dillinger](https://dillinger.io/){:target="_blank"}
-- {StackEdit}(https://stackedit.io/){:target="_blank"}
-- {Editor.md}(https://pandao.github.io/editor.md/){:target="_blank"}
+- [StackEdit](https://stackedit.io/){:target="_blank"}
+- [Editor.md](https://pandao.github.io/editor.md/){:target="_blank"}
 
 # Poniendo texto en cursiva
 {:refdef: style="text-align: center;"}
