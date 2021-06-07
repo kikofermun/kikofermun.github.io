@@ -42,68 +42,68 @@ Para poder hacer pruebas de lo que se va a comentar a continuación, se pueden u
 
 # Poniendo texto en cursiva
 {:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdowncursiva.png)
+![Cursiva]({{ site.baseurl }}/images/markdowncursiva.png)
 {:refdef}
 
 # Poniendo texto en negrita
 {:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownnegrita.png)
+![Negrita]({{ site.baseurl }}/images/markdownnegrita.png)
 {:refdef}
 
 # Poniendo texto en cursiva y negrita
 {:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdowncursivaynegrita.png)
+![Cursiva y negrita]({{ site.baseurl }}/images/markdowncursivaynegrita.png)
 {:refdef}
 
 # Añadiendo encabezados
 {:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/markdownencabezados.png)
+![Encabezados]({{ site.baseurl }}/images/markdownencabezados.png)
 {:refdef}
 
 # Añadiendo listas ordenadas
 Para añadir listas ordenadas con HTML se haría como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadahtml.png)
+![Listas ordenadas con Markdown]({{ site.baseurl }}/images/markdownlistaordenadahtml.png)
 
 Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir el número seguido de un punto y un espacio, tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadamarkdown.png)
+![Listas ordenadas con Markdown]({{ site.baseurl }}/images/markdownlistaordenadamarkdown.png)
 
 # Anidando listas ordenadas
 Para anidar una lista ordenada con HTML se haría tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadahtml.png)
+![Listas ordenadas anidadas con HTML]({{ site.baseurl }}/images/markdownlistaordenadaanidadahtml.png)
 
 Para anidar una lista ordenada con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadamarkdown.png)
+![Listas ordenadas anidadas con Markdown]({{ site.baseurl }}/images/markdownlistaordenadaanidadamarkdown.png)
 
 # Añadiendo listas desordenadas
 Para añadir listas desordenadas con HTML se haría tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadahtml.png)
+![Listas desordenadas con HTML]({{ site.baseurl }}/images/markdownlistadesordenadahtml.png)
 
 Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o __*__, tal y como se puede ver a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadamarkdown.png)
+![Listas desordenadas con Markdown]({{ site.baseurl }}/images/markdownlistadesordenadamarkdown.png)
 
 # Anidando listas desordenadas
 Para anidar una lista desordenada con HTML se haría tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadahtml.png)
+![Listas desordenadas anidadas con HTML]({{ site.baseurl }}/images/markdownlistadesordenadaanidadahtml.png)
 
 Para hacerlo con Markdown se haría tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadamarkdown.png)
+![Listas desordenadas anidadas con Markdown]({{ site.baseurl }}/images/markdownlistadesordenadaanidadamarkdown.png)
 
 # Añadiendo tablas
 Para crear una tabla con HTML se haría como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdowntablahtml.png)
+![Tablas con HTML]({{ site.baseurl }}/images/markdowntablahtml.png)
 
 Para crear la misma tabla con Markdown se haría como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdowntablamarkdown.png)
+![Tablas con Markdown]({{ site.baseurl }}/images/markdowntablamarkdown.png)
 
 # Añadiendo citas
 Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
@@ -186,4 +186,8 @@ Estos métodos para visualizar código sólo se pueden aplicar a una línea.
 # Utilizando bloques de código
 Existe una tercera forma de visualizar código, pero en este caso aplicándolo a varías líneas a la vez. Consiste en encerrar texto entre seis virgulillas o seis acentos abiertos, tal y como se muestra a continuación.
 
-![_config.yml]({{ site.baseurl }}/images/markdownbloquesdecodigo.png)
+![Bloques de código]({{ site.baseurl }}/images/markdownbloquesdecodigo.png)
+
+También es posible indicar el tipo de lenguaje que se va a escribir el bloque de código para que lo muestre con colores, tal y como se muestra a continuación.
+
+![Bloques de código especificando lenguaje]({{ site.baseurl }}/images/markdownbloquesdecodigo2.png)
