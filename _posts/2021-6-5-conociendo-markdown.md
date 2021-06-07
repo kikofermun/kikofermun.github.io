@@ -28,7 +28,7 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
    - [Creando enlaces automáticos](#creando-enlaces-automáticos)
    - [Creando anclas](#creando-anclas)
 - [Visualizando código](#visualizando-código)
-- [Utilizando bloques de código](#utilizando-bloques-de-codigo)
+- [Utilizando bloques de código](#utilizando-bloques-de-código)
 
 # Qué es Markdown
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en este artículo.
