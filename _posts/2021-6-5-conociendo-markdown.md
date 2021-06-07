@@ -100,9 +100,13 @@ Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de 
 
 `> Ser o no ser, ésa es la cuestión.`
 
+> Ser o no ser, ésa es la cuestión.
+
 También es posible añadir una cita dentro de otra cita, tal y como se muestra a continuación.
 
 `>> Ser o no ser, ésa es la cuestión.`
+
+>> Ser o no ser, ésa es la cuestión.
 
 # Creando enlaces
 En Markdown existen cuatro tipos de enlaces, que son los siguientes:
