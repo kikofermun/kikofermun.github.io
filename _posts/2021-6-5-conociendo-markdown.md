@@ -26,6 +26,8 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
    - [Creando enlaces por referencia](#creando-enlaces-por-referencia)
    - [Creando enlaces automáticos](#creando-enlaces-automáticos)
    - [Creando anclas](#creando-anclas)
+- [Visualizando código](#visualizando-código)
+- [Utilizando bloques de código](#utilizando-bloques-de-codigo)
 
 # Qué es Markdown
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en este artículo.
@@ -171,3 +173,16 @@ Las anclas se crean como los enlaces en línea pero poniendo una almohadilla y e
 `[Creando enlaces](#creando-enlaces)`
 
 [Creando enlaces](#creando-enlaces)
+
+# Visualizando código
+Para visualizar código de Markdown o de otro lenguaje sin que cambie el formato de texto, se puede hacer de dos formas:
+
+- Con texto situado entre dos caracteres de acento abierto (`texto`).
+- Añadiendo cuatro espacios antes del texto.
+
+Estos métodos para visualizar código sólo se pueden aplicar a una línea.
+
+# Utilizando bloques de código
+Existe una tercera forma de visualizar código, pero en este caso aplicándolo a varías líneas a la vez. Consiste en encerrar texto entre seis virgulillas o seis acentos abiertos, tal y como se muestra a continuación.
+
+![_config.yml]({{ site.baseurl }}/images/markdownbloquesdecodigo.png)
