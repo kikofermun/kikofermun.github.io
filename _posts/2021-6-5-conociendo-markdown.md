@@ -98,15 +98,11 @@ Para crear la misma tabla con Markdown se haría como se muestra a continuación
 # Añadiendo citas
 Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
 
-~~~ markdown
-> Ser o no ser, ésa es la cuestión.
-~~~
+`> Ser o no ser, ésa es la cuestión.`
 
 También es posible añadir una cita dentro de otra cita, tal y como se muestra a continuación.
 
-~~~ markdown
->> Ser o no ser, ésa es la cuestión.
-~~~
+`>> Ser o no ser, ésa es la cuestión.`
 
 # Creando enlaces
 En Markdown existen cuatro tipos de enlaces, que son los siguientes:
