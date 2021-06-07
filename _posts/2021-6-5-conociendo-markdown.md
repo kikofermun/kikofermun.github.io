@@ -193,6 +193,6 @@ También es posible indicar el tipo de lenguaje que se va a escribir dentro del 
 ![Bloques de código especificando lenguaje]({{ site.baseurl }}/images/markdownbloquesdecodigo2.png)
 
 # Añadiendo líneas horizontales
-Con Markdown también es posible añadir líneas horizontales para, por ejemplo, separar dos secciones. Para ello, se pueden utilizar tres asteriscos seguidos (`***`), tres guines seguidos (`---`) o tres guiones bajos seguidos (`___`).
+Con Markdown también es posible añadir líneas horizontales para, por ejemplo, separar dos secciones. Para ello, se pueden utilizar tres asteriscos seguidos (`***`), tres guiones seguidos (`---`) o tres guiones bajos seguidos (`___`).
 
 ---
