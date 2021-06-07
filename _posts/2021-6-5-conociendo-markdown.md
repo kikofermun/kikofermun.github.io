@@ -88,43 +88,11 @@ Para hacerlo con Markdown se haría tal y como se muestra a continuación.
 # Añadiendo tablas
 Para crear una tabla con HTML se haría como se muestra a continuación.
 
-~~~ html
-<table>
-  <tr>
-    <th>
-       Cabecera 1
-    </th>
-    <th>
-       Cabecera 2
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Fila 1 Columna 1
-    </td>
-    <td>
-      Fila 1 Columna 2
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fila 2 Columna 1
-    </td>
-    <td>
-      Fila 2 Columna 2
-    </td>
-  </tr>
-</table>
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdowntablahtml.png)
 
 Para crear la misma tabla con Markdown se haría como se muestra a continuación.
 
-~~~ markdown
-|Cabecera 1|Cabecera 2|
-|-|-|
-|Fila 1 Columna 1|Fila 1 Columna 2|
-|Fila 2 Columna 1|Fila 2 Columna 2|
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdowntablamarkdown.png)
 
 # Añadiendo citas
 Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
