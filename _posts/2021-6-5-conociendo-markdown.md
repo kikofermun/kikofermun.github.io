@@ -33,9 +33,11 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 - [Añadiendo líneas horizontales](#añadiendo-líneas-horizontales)
 
 # Qué es Markdown
-Definiciones de Markdown
-: Lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial.
-: Herramienta de conversión de texto plano a HTML.
+**Definiciones de Markdown**
+
+> Lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial.
+
+> Herramienta de conversión de texto plano a HTML.
 
 Cuando pensamos en programar una página web, el primer lenguaje en el que pensamos es en HTML. Sin embargo, existen alternativas, como por ejemplo Markdown. Markdown también es un lenguaje de marcado, como HTML, pero la diferencia es que para dar formato al texto con Markdown se necesitan menos caracteres que haciéndolo con HTML, como vamos a ver en este artículo.
 
