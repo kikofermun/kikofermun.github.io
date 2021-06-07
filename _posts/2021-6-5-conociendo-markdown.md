@@ -52,122 +52,38 @@ Cuando pensamos en programar una página web, el primer lenguaje en el que pensa
 # Añadiendo listas ordenadas
 Para añadir listas ordenadas con HTML se haría como se muestra a continuación.
 
-~~~ html
-<ol>
-  <li>
-    Elemento 1
-  </li>
-  <li>
-    Elemento 2
-  </li>
-  <li>
-    Elemento 3
-  </li>
-</ol>
-```
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadahtml.png)
 
 Para añadir una lista ordenada utilizando Markdown simplemente hay que añadir el número seguido de un punto y un espacio, tal y como se muestra a continuación.
 
-~~~ markdown
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadamarkdown.png)
 
 # Anidando listas ordenadas
 Para anidar una lista ordenada con HTML se haría tal y como se muestra a continuación.
 
-~~~ html
-<ol>
-  <li>
-    Elemento 1
-    <ol>
-      <li>
-        Elemento 1.1
-      </li>
-      <li>
-        Elemento 1.2
-      </li>
-    </ol>
-  </li>
-  <li>
-    Elemento 2
-  </li>
-  <li>
-    Elemento 3
-  </li>
-</ol>
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadahtml.png)
 
 Para anidar una lista ordenada con Markdown simplemente hay que añadir tres espacios al elemento que queremos anidar, tal y como se muestra a continuación.
 
-~~~ markdown
-1. Elemento 1
-   1.1. Elemento 1.1
-   1.2. Elemento 1.2
-3. Elemento 2
-4. Elemento 3
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistaordenadaanidadamarkdown.png)
 
 # Añadiendo listas desordenadas
 Para añadir listas desordenadas con HTML se haría tal y como se muestra a continuación.
 
-~~~ html
-<ul>
-  <li>
-    Elemento 1
-  </li>
-  <li>
-    Elemento 2
-  </li>
-  <li>
-    Elemento 3
-  </li>
-</ul>
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadahtml.png)
 
 Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o *****, tal y como se puede ver a continuación.
 
-~~~ markdown
-- Elemento 1
-+ Elemento 2
-* Elemento 3
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadamarkdown.png)
 
 # Anidando listas desordenadas
 Para anidar una lista desordenada con HTML se haría tal y como se muestra a continuación.
 
-~~~ html
-<ul>
-  <li>
-    Elemento 1
-    <ul>
-      <li>
-        Elemento 1
-      </li>
-      <li>
-        Elemento 2
-      </li>
-    </ul>
-  </li>
-  <li>
-    Elemento 2
-  </li>
-  <li>
-    Elemento 3
-  </li>
-</ul>
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadahtml.png)
 
 Para hacerlo con Markdown se haría tal y como se muestra a continuación.
 
-~~~ markdown
-- Elemento 1
-   - Elemento 1
-   + Elemento 2
-+ Elemento 2
-* Elemento 3
-~~~
+![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadaanidadamarkdown.png)
 
 # Añadiendo tablas
 Para crear una tabla con HTML se haría como se muestra a continuación.
