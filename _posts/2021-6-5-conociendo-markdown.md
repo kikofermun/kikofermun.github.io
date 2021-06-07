@@ -106,7 +106,7 @@ Para crear la misma tabla con Markdown se haría como se muestra a continuación
 ![Tablas con Markdown]({{ site.baseurl }}/images/markdowntablamarkdown.png)
 
 # Añadiendo citas
-Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
+Para crear una cita hay que hacerlo con el símbolo _mayor que_ (>) al principio de una frase, tal y como se muestra a continuación.
 
 `> Ser o no ser, ésa es la cuestión.`
 
