@@ -136,7 +136,7 @@ También es posible hacer que se abra en una nueva pestaña de la siguiente form
 [Google](http://google.es){:target="_blank"}
 
 ## Creando enlaces por referencia
-Los enlaces por referencia se crean utilizando dos corchetes, donde en un corchete irá el texto del enlace y en el otro corchete el texto de la referencia. Ésto se hace tal y como se muestra a continuación.
+Los enlaces por referencia se crean utilizando dos corchetes, donde en un corchete irá el texto del enlace y en el otro corchete el texto de la referencia, creando previamente el enlace de referencia. Ésto se hace tal y como se muestra a continuación.
 
 `[google]: http://google.com`
 
