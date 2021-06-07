@@ -105,13 +105,13 @@ Para crear la misma tabla con Markdown se haría como se muestra a continuación
 # Añadiendo citas
 Para crear una cita hay que hacerlo con el símbolo _mayor que_ al principio de una frase, tal y como se muestra a continuación.
 
-`> Ser o no ser, ésa es la cuestión.`
+    > Ser o no ser, ésa es la cuestión.
 
 > Ser o no ser, ésa es la cuestión.
 
 También es posible añadir una cita dentro de otra cita, tal y como se muestra a continuación.
 
-`>> Ser o no ser, ésa es la cuestión.`
+    >> Ser o no ser, ésa es la cuestión.
 
 >> Ser o no ser, ésa es la cuestión.
 
@@ -125,22 +125,22 @@ En Markdown existen cuatro tipos de enlaces, que son los siguientes:
 ## Creando enlaces en línea
 Los enlaces en línea se crean utilizando corchetes y paréntesis, donde entre los corchetes tiene que ir el texto del enlace y entre los paréntesis tiene que ir la url del enlace, tal y como se muestra a continuación.
 
-`[Google](http://google.es)`
+    [Google](http://google.es)
 
 [Google](http://google.es)
 
 También es posible hacer que se abra en una nueva pestaña de la siguiente forma.
 
-`[Google](http://google.es){:target="_blank"}`
+    [Google](http://google.es){:target="_blank"}
 
 [Google](http://google.es){:target="_blank"}
 
 ## Creando enlaces por referencia
 Los enlaces por referencia se crean utilizando dos corchetes, donde en un corchete irá el texto del enlace y en el otro corchete el texto de la referencia. Ésto se hace tal y como se muestra a continuación.
 
-`[google]: http://google.com`
+    [google]: http://google.com
 
-`[Google][google]`
+    [Google][google]
 
 [google]: http://google.com
 
@@ -148,26 +148,26 @@ Los enlaces por referencia se crean utilizando dos corchetes, donde en un corche
 
 También es posible hacer que se abra en una nueva pestaña de la siguiente forma.
 
-`[Google][google]{:target="_blank"}`
+    [Google][google]{:target="_blank"}
 
 [Google][google]{:target="_blank"}
 
 ## Creando enlaces automáticos
 Los enlaces automáticos se crean escribiendo la url entre los símbolos _menor que_ y _mayor que_, tal y como se muestra a continuación.
 
-`<http://google.com>`
+    <http://google.com>
 
 <http://google.com>
 
 También es posible hacer que se abra en una nueva pestaña de la siguiente forma.
 
-`<http://google.com>{:target="_blank"}`
+    <http://google.com>{:target="_blank"}
 
 <http://google.com>{:target="_blank"}
 
 # Creando anclas
 Las anclas se crean como los enlaces en línea pero poniendo una almohadilla y el título de la sección en lugar de la url, tal y como se puede ver a continuación.
 
-`[Creando enlaces](#creando-enlaces)`
+    [Creando enlaces](#creando-enlaces)
 
 [Creando enlaces](#creando-enlaces)
