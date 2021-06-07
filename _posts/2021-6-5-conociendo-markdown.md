@@ -19,6 +19,7 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
 - [Anidando listas ordenadas](#anidando-listas-ordenadas)
 - [Añadiendo listas desordenadas](#añadiendo-listas-desordenadas)
 - [Anidando listas desordenadas](#anidando-listas-desordenadas)
+- [Añadiendo tablas](#añadiendo-tablas)
 - [Añadiendo citas](#añadiendo-citas)
 - [Creando enlaces](#creando-enlaces-automáticos)
    - [Creando enlaces en línea](#creando-enlaces-en-línea)
