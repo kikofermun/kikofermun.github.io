@@ -28,6 +28,7 @@ En este artículo voy a explicar qué es Markdown y cómo utilizar este lenguaje
    - [Creando enlaces automáticos](#creando-enlaces-automáticos)
    - [Creando anclas](#creando-anclas)
 - [Visualizando código](#visualizando-código)
+- [Omitiendo caracteres de Markdown](#omitiendo-caracteres-de-markdown)
 - [Utilizando bloques de código](#utilizando-bloques-de-código)
 
 # Qué es Markdown
@@ -182,6 +183,11 @@ Para visualizar código de Markdown o de otro lenguaje sin que cambie el formato
 - Añadiendo cuatro espacios antes del texto.
 
 Estos métodos para visualizar código sólo se pueden aplicar a una línea.
+
+# Omitiendo caracteres de Markdown
+Respect a Markdown, también es posible evitar que Markdown formatee el texto utilizando una barra invertida antes del caracter especial, tal y como se muestra a continuación.
+
+`\* Evitamos que formatee el texto en cursiva`
 
 # Utilizando bloques de código
 Existe una tercera forma de visualizar código, pero en este caso aplicándolo a varías líneas a la vez. Consiste en encerrar texto entre seis virgulillas o seis acentos abiertos, tal y como se muestra a continuación.
