@@ -188,6 +188,6 @@ Existe una tercera forma de visualizar código, pero en este caso aplicándolo a
 
 ![Bloques de código]({{ site.baseurl }}/images/markdownbloquesdecodigo.png)
 
-También es posible indicar el tipo de lenguaje que se va a escribir el bloque de código para que lo muestre con colores, tal y como se muestra a continuación.
+También es posible indicar el tipo de lenguaje que se va a escribir dentro del bloque de código para que lo muestre con colores, tal y como se muestra a continuación.
 
 ![Bloques de código especificando lenguaje]({{ site.baseurl }}/images/markdownbloquesdecodigo2.png)
