@@ -83,7 +83,7 @@ Para añadir listas desordenadas con HTML se haría tal y como se muestra a cont
 
 ![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadahtml.png)
 
-Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o *****, tal y como se puede ver a continuación.
+Para hacerlo con Markdown se pueden utilizar los símbolos **-**, **+** o __*__, tal y como se puede ver a continuación.
 
 ![_config.yml]({{ site.baseurl }}/images/markdownlistadesordenadamarkdown.png)
 
