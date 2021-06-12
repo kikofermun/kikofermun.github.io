@@ -10,7 +10,6 @@ LaTeX es una mejora o evolución de TeX, un sistema de tipografía creado por Do
 # Cómo utilizar LaTeX
 Para crear documentos con LaTeX es necesario utilizar editores LaTeX. Algunos de los editores para Ubuntu más concidos son los siguientes:
 1. [Lyx](https://www.lyx.org/){:target="_blank"}
-![Lyx](https://raw.githubusercontent.com/kikofermun/kikofermun.github.io/master/images/latexlyx.png)
 2. [TeXmaker](https://www.xm1math.net/texmaker/){:target="_blank"}
 3. [TeXstudio](https://www.texstudio.org){:target="_blank"}
 4. [Gummi](https://github.com/alexandervdm/gummi){:target="_blank"}
