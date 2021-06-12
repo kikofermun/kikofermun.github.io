@@ -87,6 +87,10 @@ Este comando también puede recibir parámetros opcionales para indicar las sigu
 - Número de las ecuaciones alineado a la izquierda (leqno).
 - Compilación del documento en modo borrador o en modo normal (draft, final).
 
+A la hora de utilizar este comando hay que utilizar el siguiente formato:
+
+`\documentclass[<opciontes>]{<tipo_document>}`
+
 Un ejemplo de utilización de este comando con parámetros opcionales sería el siguiente:
 
 `\documentclass[twocolumn,titlepage]{article}`
