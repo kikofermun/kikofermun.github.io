@@ -18,3 +18,27 @@ Para crear documentos con LaTeX es necesario utilizar editores LaTeX. Algunos de
 7. [Overleaf](https://www.overleaf.com/project){:target="_blank"}
 8. [Authorea](https://www.authorea.com/){:target="_blank"}
 9. [Papeeria](https://www.papeeria.com/){:target="_blank"}
+
+# Creando textos con LaTeX
+Para crear textos con LaTeX es necesario utilizar comandos, tal y como se muestra en el siguiente ejemplo:
+~~~
+\documentclass{article}
+% pre\'ambulo
+
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{mathtools}
+
+\title{Hola Mundo}
+\author{Escribe aqu\'i tu nombre}
+
+\begin{document}
+% cuerpo del documento
+
+\maketitle
+
+Mi primer documento en \LaTeX{}.
+
+\end{document}
+~~~
