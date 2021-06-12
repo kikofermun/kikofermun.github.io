@@ -22,7 +22,6 @@ Para crear documentos con LaTeX es necesario utilizar editores LaTeX. Algunos de
 # Creando textos con LaTeX
 Para crear textos con LaTeX es necesario utilizar comandos, tal y como se muestra en el siguiente ejemplo:
 
-~~~
 \documentclass{article}
 % pre\'ambulo
 
@@ -42,7 +41,6 @@ Para crear textos con LaTeX es necesario utilizar comandos, tal y como se muestr
 Mi primer documento en \LaTeX{}.
 
 \end{document}
-~~~
 
 En este ejemplo podemos ver que estamos utlizando los siguientes comandos:
 
