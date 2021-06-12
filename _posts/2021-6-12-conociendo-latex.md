@@ -61,4 +61,6 @@ Los comandos pueden recibir dos tipos de parámetros, que son los siguientes:
 
 Los parámetros obligatorios se escriben entre llaves ({}), tal y como se puede ver en el comando **\documentclass{article}**.
 
-Los parámetros opcionales se escriben entre corchetes ([]), tal y como se puede ver en el comando **\usepackage[spanish,activeacute]{babel}**
+Los parámetros opcionales se escriben entre corchetes ([]), tal y como se puede ver en el comando **\usepackage[spanish,activeacute]{babel}**.
+
+En el ejemplo también podemos ver líneas de texto que empiezan con el símbolo **%**. Estas líneas son comentarios, invisibles cuando se crea el documento de texto.
