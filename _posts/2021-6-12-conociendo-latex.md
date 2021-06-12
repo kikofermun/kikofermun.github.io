@@ -4,7 +4,7 @@ En este artículo vamos a explicar qué es y cómo se utiliza el compositor de t
 - [Qué es LaTeX](#qué-es-latex)
 - [Cómo utilizar LaTeX](#cómo-utilizar-latex)
 - [Creando textos con LaTeX](#creando-textos-con-latex)
-- [Comando \documentclass](#comando-\documentclass)
+- [Comando \documentclass](#comando-documentclass)
 
 # Qué es LaTeX
 A la hora de crear textos utilizando editores de texto como Word, LibreOffice u otros editores de textos, tenemos que pensar en el formato que le queremos dar a los títulos, el tamaño de letra, y otras características. LaTeX es un sistema de composición de textos que permite crear textos como con un editor de textos pero con un formato ya establecido para los títulos, el tamaño de letra y el resto de características.
