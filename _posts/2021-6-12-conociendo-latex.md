@@ -21,6 +21,7 @@ Para crear documentos con LaTeX es necesario utilizar editores LaTeX. Algunos de
 
 # Creando textos con LaTeX
 Para crear textos con LaTeX es necesario utilizar comandos, tal y como se muestra en el siguiente ejemplo:
+
 ~~~
 \documentclass{article}
 % pre\'ambulo
@@ -42,3 +43,22 @@ Mi primer documento en \LaTeX{}.
 
 \end{document}
 ~~~
+
+En este ejemplo podemos ver que estamos utlizando los siguientes comandos:
+
+- \documentclass
+- \usepackage
+- \title
+- \author
+- \begin
+- \maketitle
+- \end
+
+Los comandos pueden recibir dos tipos de parámetros, que son los siguientes:
+
+- Obligatorios
+- Opcionales
+
+Los parámetros obligatorios se escriben entre llaves ({}), tal y como se puede ver en el comando **\documentclass{article}**.
+
+Los parámetros opcionales se escriben entre corchetes ([]), tal y como se puede ver en el comando **\usepackage[spanish,activeacute]{babel}**
