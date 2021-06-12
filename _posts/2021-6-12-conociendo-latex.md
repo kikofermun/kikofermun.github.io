@@ -1,4 +1,4 @@
-En este artículo vamos a qué es y cómo se utiliza el compositor de textos LaTeX.
+En este artículo vamos a explicar qué es y cómo se utiliza el compositor de textos LaTeX.
 
 ### Tabla de contenidos
 - [Qué es LaTeX](#qué-es-latex)
