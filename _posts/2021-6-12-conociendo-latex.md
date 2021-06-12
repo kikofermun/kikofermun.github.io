@@ -89,7 +89,7 @@ Este comando también puede recibir parámetros opcionales para indicar las sigu
 
 A la hora de utilizar este comando hay que utilizar el siguiente formato:
 
-`\documentclass[<opciontes>]{<tipo_document>}`
+`\documentclass[<opciones>]{<tipo_document>}`
 
 Un ejemplo de utilización de este comando con parámetros opcionales sería el siguiente:
 
