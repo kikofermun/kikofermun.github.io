@@ -8,7 +8,7 @@ A la hora de crear textos utilizando editores de texto como Word, LibreOffice u 
 LaTeX es una mejora o evolución de TeX, un sistema de tipografía creado por Donald E. Knuth y publicado por primera vez en 1978. El objetivo de TeX era ayudar a matemáticos, físicos e informáticos en la composición de sus textos, que habitualmente incluían nomenclatura compleja. LaTeX, creado por Leslie Lamport en 1984, emplea macros de TeX para utilizar composición tipográfica de una manera más simple que con el TeX original.
 
 # Cómo utilizar LaTeX
-Para crear documentos con LaTeX es necesario utilizar editores LaTeX. Algunos de los editores para Ubuntu más concidos son los siguientes:
+Para crear documentos con LaTeX es necesario utilizar editores LaTeX. Algunos de los editores más conocidos son los siguientes:
 1. [Lyx](https://www.lyx.org/){:target="_blank"}
 2. [TeXmaker](https://www.xm1math.net/texmaker/){:target="_blank"}
 3. [TeXstudio](https://www.texstudio.org){:target="_blank"}
