@@ -89,4 +89,4 @@ Este comando también puede recibir parámetros opcionales para indicar las sigu
 
 Un ejemplo de utilización de este comando con parámetros opcionales sería el siguiente:
 
-'\documentclass[twocolumn,titlepage]{article}'
+`\documentclass[twocolumn,titlepage]{article}`
