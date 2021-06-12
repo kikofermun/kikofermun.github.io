@@ -56,11 +56,33 @@ En este ejemplo podemos ver que estamos utlizando los siguientes comandos:
 
 Los comandos pueden recibir dos tipos de parámetros, que son los siguientes:
 
-- Obligatorios
-- Opcionales
+- Obligatorios.
+- Opcionales.
 
 Los parámetros obligatorios se escriben entre llaves ({}), tal y como se puede ver en el comando **\documentclass{article}**.
 
 Los parámetros opcionales se escriben entre corchetes ([]), tal y como se puede ver en el comando **\usepackage[spanish,activeacute]{babel}**.
 
 En el ejemplo también podemos ver líneas de texto que empiezan con el símbolo **%**. Estas líneas son comentarios, invisibles cuando se crea el documento de texto.
+
+# Comando \documentclass
+Este comando permite indicar el tipo de documento que vamos a escribir. Para ello, recibe un parámetro obligatorio que indica el tipo de documento. El valor de este parámetro puede ser uno de los siguientes:
+
+- article: Para artículos académicos y otros documentos cortos que no es necesario dividir en capítulos, sino que bastan las secciones y subsecciones y sus párrafos y subpárrafos.
+- book: Para libros y otros documentos más largos que deben incluir capítulos, prólogo, apéndices o incluso partes.
+- report: Para informes técnicos. Es similar a la clase book.
+- memoir: Una clase todoterreno con un buen número de funciones adicionales integradas.
+- beamer: Otra clase para presentaciones mediante diapositivas.
+
+Este comando también puede recibir parámetros opcionales para indicar las siguientes características:
+
+- Tamaño del papel (a4paper, a5paper, b5paper, letterpaper, legalpaper, executivepaper, ...).
+- Apaisado (landscape).
+- Tamaño de la fuente (10pt, 11pt o 12pt).
+- Impresión por un solo lado de la página o por ambos (oneside, twoside).
+- Incluir o no incluir una página de título (titlepage, notitlepage).
+- Permitir que los capítulos se inicien en páginas impares o en cualquier página (openright, openany).
+- Documento en una columna o en dos columnas (onecolumn, twocolumn).
+- Ecuaciones alineadas a la izquierda (fleqn).
+- Número de las ecuaciones alineado a la izquierda (leqno).
+- Compilación del documento en modo borrador o en modo normal (draft, final).
