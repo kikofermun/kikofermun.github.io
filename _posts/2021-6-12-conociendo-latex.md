@@ -97,3 +97,14 @@ A la hora de utilizar este comando hay que utilizar el siguiente formato:
 Un ejemplo de utilización de este comando con parámetros opcionales sería el siguiente:
 
 `\documentclass[twocolumn,titlepage]{article}`
+
+# Comando \usepackage
+Un paquete de LaTeX es un conjunto de archivos empaquetados que puede cargarse al principio de un documento. Esta carga del paquete permite añadir nuevas funcionalidades a través de nuevos comandos.
+
+A la hora de utilizar este comando hay que utilizar el siguiente formato:
+
+`\usepackage[<opciones>]{<nombre_paquete>}`
+
+Un ejemplo de utilización de este comando sería el siguiente:
+
+`\usepackage[spanish]{babel}`
