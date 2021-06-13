@@ -111,3 +111,33 @@ Un ejemplo de utilización de este comando sería el siguiente:
 
 # Comando \title
 Este comando permite definir un título para añadirlo mediante el comando **\maketitle**.
+
+A la hora de utilizar este comando hay que utilizar el siguiente formato:
+
+`\title{<titulo>}`
+
+Un ejemplo de utilización de este comando sería el siguiente:
+
+`\title{La caperucita roja}`
+
+Una vez hayamos definido el título, para añadirlo al documento hay que añadirlo mediante el comando **maketitle**, tal y como se muestra en el siguiente ejemplo:
+
+~~~
+\documentclass{article}
+\title{Título del documento}
+\begin{document}
+\maketitle
+\end{document}
+~~~
+
+Este comando también añade automáticamente el autor y la fecha, donde si no se define el autor añade un línea en blanco debajo del título y si no se define la fecha añade la fecha actual debajo del autor. Para definir estos dos campos hay que utilizar los comandos **\author** y **\date**, tal y como se muestra a continuación:
+
+~~~
+\documentclass{article}
+\title{Título del documento}
+\author{Kiko Fernández Munuera}
+\date{13 de junio del 2021}
+\begin{document}
+\maketitle
+\end{document}
+~~~
