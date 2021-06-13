@@ -5,6 +5,8 @@ En este artículo vamos a explicar qué es y cómo se utiliza el compositor de t
 - [Cómo utilizar LaTeX](#cómo-utilizar-latex)
 - [Creando textos con LaTeX](#creando-textos-con-latex)
 - [Comando \documentclass](#comando-documentclass)
+- [Comando \usepackage](#comando-usepackage)
+- [Comando \maketitle](#comando-maketitle)
 
 # Qué es LaTeX
 A la hora de crear textos utilizando editores de texto como Word, LibreOffice u otros editores de textos, tenemos que pensar en el formato que le queremos dar a los títulos, el tamaño de letra, y otras características. LaTeX es un sistema de composición de textos que permite crear textos como con un editor de textos pero con un formato ya establecido para los títulos, el tamaño de letra y el resto de características.
@@ -109,35 +111,39 @@ Un ejemplo de utilización de este comando sería el siguiente:
 
 `\usepackage[spanish]{babel}`
 
-# Comando \title
-Este comando permite definir un título para añadirlo mediante el comando **\maketitle**.
+# Comando \maketitle
+Este comando permite añadir una portada al documento. Para utilizarlo simplemente hay que llamar al comando.
 
-A la hora de utilizar este comando hay que utilizar el siguiente formato:
+Cuando utilicemos este comando, en la portada aparecerán los siguientes datos:
 
-`\title{<titulo>}`
+- Título del documento.
+- Autor del documento.
+- Fecha del documento.
 
-Un ejemplo de utilización de este comando sería el siguiente:
+Para poder utilizar este comando es obligatorio definir el título mediante el comando **\title**. Para utilizar este comando hay que utilizar el siguiente formato:
 
-`\title{La caperucita roja}`
+`\title{<título>}`
 
-Una vez hayamos definido el título, para añadirlo al documento hay que añadirlo mediante el comando **maketitle**, tal y como se muestra en el siguiente ejemplo:
+El autor es opcional. En el caso de que no se defina un autor, debajo del título aparecerá una línea en blanco. Para definir el autor hay que utilizar el siguiente formato:
+
+`\author{<nombre_autor>}`
+
+La fecha también es opcional. En el caso de que no se defina una fecha, por defecto aparecerá la fecha actual. Para definir la fecha hay que utilizar el siguiente formato:
+
+`\date{<fecha>}`
+
+Un ejemplo de utilización del comando **\maketitle** sería el que se muestra a continuación.
 
 ~~~
 \documentclass{article}
-\title{Título del documento}
-\begin{document}
-\maketitle
-\end{document}
-~~~
 
-Este comando también añade automáticamente el autor y la fecha, donde si no se define el autor añade un línea en blanco debajo del título y si no se define la fecha añade la fecha actual debajo del autor. Para definir estos dos campos hay que utilizar los comandos **\author** y **\date**, tal y como se muestra a continuación:
-
-~~~
-\documentclass{article}
 \title{Título del documento}
 \author{Kiko Fernández Munuera}
 \date{13 de junio del 2021}
+
 \begin{document}
+
 \maketitle
+
 \end{document}
 ~~~
