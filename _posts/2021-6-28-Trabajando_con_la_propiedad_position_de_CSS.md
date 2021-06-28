@@ -8,9 +8,9 @@ Cuando trabajamos con un documento HTML, tenemos la posibilidad de especificar c
 
 {:refdef: style="text-align: center;"}
 ![]({{ site.baseurl }}/images/csspositionejemplo1.png)
-_Ejemplo 1_
 {:refdef}
 
 {:refdef: style="text-align: center;"}
 _Ejemplo 1_
 {:refdef}
+
