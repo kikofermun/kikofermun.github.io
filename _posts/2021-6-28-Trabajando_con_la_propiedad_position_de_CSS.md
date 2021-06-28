@@ -34,3 +34,6 @@ El valor __static__ es el valor por defecto que tiene la propiedad __position__ 
 {:refdef: style="text-align: center;"}
 _Ejemplo 2_
 {:refdef}
+
+# relative
+El valor __relative__ permite que al elemento que le apliquemos la propiedad __position__ con este valor, podamos modificarle la posición que ocuparía en el flujo normal de la página utilizando las propiedades __top__, __left__, __right__ y/o __bottom__.
