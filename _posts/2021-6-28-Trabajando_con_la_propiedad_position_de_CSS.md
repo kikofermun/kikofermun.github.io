@@ -26,3 +26,7 @@ Cada uno de estos valores permite posicionar un elemento de diferentes formas.
 
 # static
 El valor __static__ es el valor por defecto que tiene la propiedad __position__ de un elemento HTML. Este valor permite posicionar a los elementos según el flujo normal de la página; es decir, si una imagen está puesta debajo de un texto, primero se mostrará el texto y luego se mostrará la imagen, tal y como se puede ver en el _ejemplo 2_.
+
+{:refdef: style="text-align: center;"}
+![](https://www.cevagraf.coop/blog/wp-content/uploads/2018/02/lorem-ipsum.jpg)
+{:refdef}
