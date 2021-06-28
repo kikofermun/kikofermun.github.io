@@ -30,3 +30,7 @@ El valor __static__ es el valor por defecto que tiene la propiedad __position__ 
 {:refdef: style="text-align: center;"}
 ![]({{ site.baseurl }}/images/csspositionejemplo2.png)
 {:refdef}
+
+{:refdef: style="text-align: center;"}
+_Ejemplo 2_
+{:refdef}
