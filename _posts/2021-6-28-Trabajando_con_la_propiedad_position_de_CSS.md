@@ -36,7 +36,7 @@ _Ejemplo 2_
 {:refdef}
 
 # relative
-El valor __relative__ permite que, al elemento que le apliquemos la propiedad __position__ con este valor, podamos modificarle la posición que ocuparía en el flujo normal de la página utilizando las propiedades __top__, __left__, __right__ y/o __bottom__. En el _ejemplo 2_, si a la imagen le aplicásemos la propiedad __position__ con valor __relative__ y le modificásemos la posición vertical utilizando la propiedad __top__ con valor __-10px__, lo que estaríamos haciendo es subir su posición vertical 10 píxeles de su posición original en el flujo normal de la página, tal y como se puede ver en el _ejemplo 3_ y en [este enlace}(https://codepen.io/kikofermun83/pen/VwbwYzV){:target="_blank"}.
+El valor __relative__ permite que, al elemento que le apliquemos la propiedad __position__ con este valor, podamos modificarle la posición que ocuparía en el flujo normal de la página utilizando las propiedades __top__, __left__, __right__ y/o __bottom__. En el _ejemplo 2_, si a la imagen le aplicásemos la propiedad __position__ con valor __relative__ y le modificásemos la posición vertical utilizando la propiedad __top__ con valor __-10px__, lo que estaríamos haciendo es subir su posición vertical 10 píxeles de su posición original en el flujo normal de la página, tal y como se puede ver en el _ejemplo 3_ y en [este enlace](https://codepen.io/kikofermun83/pen/VwbwYzV){:target="_blank"}.
 
 {:refdef: style="text-align: center;"}
 ![]({{ site.baseurl }}/images/csspositionejemplo3.png)
@@ -47,4 +47,14 @@ _Ejemplo 3_
 {:refdef}
 
 # absolute
+El valor __absolute__ se diferencia del valor __relative__ en que el segundo permite especificar la posición a partir de su posición original en el flujo normal de la página, mientras que el primero permite especificar la posición según los bordes que contiene el elemento (elemento padre).
+En el _ejemplo 3_ tenemos una imagen que no está contenido por ningún elemento, así que su elemento padre es el propio documento. Si a esta imagen le aplicásemos la propiedad __position__ con el valor __absolute__ y le modificásemos la posición con el valor __0px__ para las propiedades __top__ y __left__, estaríamos posicionando la imagen en la esquina superior izquierda del documento, tal y como se puede ver en el _ejemplo 4_ y en [este enlace](https://codepen.io/kikofermun83/pen/GRmgWJB){:target="_blank"}.
+
+{:refdef: style="text-align: center;"}
+![]({{ site.baseurl }}/images/csspositionejemplo4.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+_Ejemplo 4_
+{:refdef}
 
