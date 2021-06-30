@@ -76,5 +76,16 @@ El valor __fixed__ es parecido al valor __absolute__. La diferencia entre el pri
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-_Ejemplo 5_
+_Ejemplo 6_
+{:refdef}
+
+#sticky
+El valor __sticky__ permite mantener fija la posición de un elemento pero sólo cuando el elemento se encuentre en la posición indicada. Si en el _ejemplo 3_, a la imagen le pusiésemos la propiedad __position__ con valor __sticky__ y la propiedad __top__ con valor __0px__, al hacer scroll, cuando la imágen llegase a la parte superior de la página, al seguir haciendo scroll, esta imagen se mantendría fija, tal y como puede verse en el _ejemplo 7_ y en [este enlace](https://codepen.io/kikofermun83/pen/NWjPpJG){:target="_blank"}.
+
+{:refdef: style="text-align: center;"}
+![]({{ site.baseurl }}/images/csspositionejemplo7.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+_Ejemplo 7_
 {:refdef}
