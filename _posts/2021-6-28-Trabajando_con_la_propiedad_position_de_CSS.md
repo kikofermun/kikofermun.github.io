@@ -36,7 +36,7 @@ _Ejemplo 2_
 {:refdef}
 
 # relative
-El valor __relative__ permite que, al elemento que le apliquemos la propiedad __position__ con este valor, podamos modificarle la posición que ocuparía en el flujo normal de la página utilizando las propiedades __top__, __left__, __right__ y/o __bottom__. En el _ejemplo 2_, si a la imagen le aplicásemos la propiedad __position__ con valor __relative__ y le modificásemos la posición vertical utilizando la propiedad __top__ con valor __-10px__, lo que estaríamos haciendo es subir su posición vertical 10 píxeles de su posición original, tal y como se puede ver en el _ejemplo 3_ y en este enlace.
+El valor __relative__ permite que, al elemento que le apliquemos la propiedad __position__ con este valor, podamos modificarle la posición que ocuparía en el flujo normal de la página utilizando las propiedades __top__, __left__, __right__ y/o __bottom__. En el _ejemplo 2_, si a la imagen le aplicásemos la propiedad __position__ con valor __relative__ y le modificásemos la posición vertical utilizando la propiedad __top__ con valor __-10px__, lo que estaríamos haciendo es subir su posición vertical 10 píxeles de su posición original en el flujo normal de la página, tal y como se puede ver en el _ejemplo 3_ y en [este enlace}(https://codepen.io/kikofermun83/pen/VwbwYzV){:target="_blank"}.
 
 {:refdef: style="text-align: center;"}
 ![]({{ site.baseurl }}/images/csspositionejemplo3.png)
@@ -45,3 +45,6 @@ El valor __relative__ permite que, al elemento que le apliquemos la propiedad __
 {:refdef: style="text-align: center;"}
 _Ejemplo 3_
 {:refdef}
+
+# absolute
+
