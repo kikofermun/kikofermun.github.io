@@ -58,3 +58,23 @@ En el _ejemplo 3_ tenemos una imagen que no está contenido por ningún elemento
 _Ejemplo 4_
 {:refdef}
 
+Si en el ejemplo anterior la imagen estuviera contenida por una etiqueta div con la propiedad __position__ con valor __relative__, el elemento padre sería esta etiqueta y por lo tanto la imagen se posicionaría en la esquina superior ixquierda del elemento padre de la imagen, que en este caso es la etiqueta _div_. En este caso, la posición sería la misma que la que ocuparía en el flujo normal de la página, tal y como puede verse en el _ejemplo 5_ y en [este enlace](https://codepen.io/kikofermun83/pen/dyWPvRm){:target="_blank"}
+
+{:refdef: style="text-align: center;"}
+![]({{ site.baseurl }}/images/csspositionejemplo5.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+_Ejemplo 5_
+{:refdef}
+
+# fixed
+El valor __fixed__ es parecido al valor __absolute__. La diferencia entre el primero y el segundo es que el segundo posiciona el elemento teniendo en cuenta la página web, mientras que el el primero posiciona el elemento teniendo en cuenta el área visible del navegador, manteniendo fijo el elemento en la posición que le hemos indicado. Si en el _ejemplo 4_ a la imagen le pusiéramos el valor __fixed__ a la propiedad __position__, al hacer scroll la imagen se mantendría siempre visible en la esquina superior izquierda del área visible del navegador, tal y como se puede ver en el _ejemplo 6_ y en [este enlace](https://codepen.io/kikofermun83/pen/mdmyWxa){:target="_blank"}.
+
+{:refdef: style="text-align: center;"}
+![]({{ site.baseurl }}/images/csspositionejemplo6.png)
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+_Ejemplo 5_
+{:refdef}
