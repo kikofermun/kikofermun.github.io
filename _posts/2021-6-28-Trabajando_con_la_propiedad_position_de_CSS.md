@@ -4,6 +4,10 @@ title: Trabajando con la propiedad position de CSS
 ---
 En este artículo vamos a intentar explicar cómo funciona la propiedad __position__ de CSS.
 
+{:refdef: style="text-align: center;"}
+![]({{ site.baseurl }}/images/cssposition.png)
+{:refdef}
+
 Cuando trabajamos con un documento HTML, tenemos la posibilidad de especificar cómo posicionar cada uno de los elementos. Ésto lo podemos conseguir utilizando la propiedad __position__ de CSS, tal y como se muestra en el _ejemplo 1_ y en [este enlace](https://codepen.io/kikofermun83/pen/BaRBXqo){:target="_blank"}.
 
 {:refdef: style="text-align: center;"}
